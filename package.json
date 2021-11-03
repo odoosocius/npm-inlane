@@ -1,6 +1,6 @@
 {
   "name": "in_lane_api",
-  "version": "v1",
+  "version": "1.0.0",
   "description": "InLane_communication_Web_Api",
   "license": "Unlicense",
   "main": "src/index.js",
